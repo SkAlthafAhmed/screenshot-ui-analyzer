@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #1e1e1e;
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+input[type="file"] {
+  margin-top: 20px;
+}
